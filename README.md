@@ -1,5 +1,10 @@
 # AI-Driven Adaptive Diagnostic Engine
 
+## Demo
+
+Frontend: http://localhost:8080  
+API Docs: http://localhost:8000/docs
+
 This project is a prototype of an adaptive assessment system that dynamically adjusts question difficulty to estimate a student's proficiency level.
 
 The system mimics how exams like GRE, GMAT, and Duolingo English Test work by selecting questions based on the student's previous answers.
@@ -288,7 +293,7 @@ npm run dev
 
 Frontend will run at:
 
-http://localhost:5173
+http://localhost:8080
 
 ---
 
